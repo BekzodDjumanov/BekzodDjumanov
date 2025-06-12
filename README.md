@@ -23,4 +23,20 @@ I'm a Computer Science student passionate about software engineering, front-end 
 # <img src="star.png" height="40"> Github Statistics
 ![Beck's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BekzodDjumanov&layout=compact&theme=radical)
+
+# <img src="pyramid.png" height="40"> Wisdom
+<div style="
+  border-left: 4px solid #8E75B2; 
+  background-color: #f4eefd; 
+  padding: 15px 20px; 
+  border-radius: 8px; 
+  margin: 15px 0;
+  font-style: italic;
+  color: #36454F;
+">
+  “What we know is not much. What we don't know is enormous.”  
+  <br>
+  <span style="font-weight: bold; display: block; margin-top: 10px; text-align: right;">
+    ― Pierre Simon De Laplace
+  </span>
+</div>
