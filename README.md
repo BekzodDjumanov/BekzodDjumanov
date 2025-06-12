@@ -1,4 +1,6 @@
-<img src="intro.gif" width="600">
+<div align="center">
+  <img src="intro.gif" width="600">
+</div>
 
 # <img src="tube.png" height="40"> Bekzod Djumanov
 
