@@ -25,18 +25,5 @@ I'm a Computer Science student passionate about software engineering, front-end 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=radical)
 
 # <img src="pyramid.png" height="40"> Wisdom
-<div style="
-  border-left: 4px solid #8E75B2; 
-  background-color: #f4eefd; 
-  padding: 15px 20px; 
-  border-radius: 8px; 
-  margin: 15px 0;
-  font-style: italic;
-  color: #36454F;
-">
-  “What we know is not much. What we don't know is enormous.”  
-  <br>
-  <span style="font-weight: bold; display: block; margin-top: 10px; text-align: right;">
-    ― Pierre Simon De Laplace
-  </span>
-</div>
+> “What we know is not much. What we don't know is enormous.”  
+> ― Pierre Simon De Laplace
