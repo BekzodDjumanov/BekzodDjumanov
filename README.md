@@ -1,4 +1,6 @@
-## Hi there 👋
+# Bekzod Djumanov
+
+## Hello!
 
 <!--
 **BekzodDjumanov/BekzodDjumanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
