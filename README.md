@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="intro.gif" width="600">
+  <img src="intro.gif" width="400">
 </div>
 
 # <img src="tube.png" height="40"> Bekzod Djumanov
