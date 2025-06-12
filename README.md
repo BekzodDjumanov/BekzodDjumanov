@@ -1,8 +1,8 @@
-### <img src="tube.png" height="50"> <span style="font-size: 5rem;">Bekzod Djumanov</span>
+# <img src="tube.png" height="50"> Bekzod Djumanov
 
 I'm a Computer Science student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the industrial and mechanical landscape.
 
-## 🧠 Tech Stack
+# <img src="noodle.png" height="50"> Tech Stack
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" height="30">
@@ -20,4 +20,4 @@ I'm a Computer Science student passionate about software engineering, front-end 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
 </div>
 
-### <img src="star.png" height="50"> <span style="font-size: 5rem;">Github Statistics</span>
+# <img src="star.png" height="50"> Github Statistics
