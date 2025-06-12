@@ -1,4 +1,4 @@
-## <img src="tube.png" height="50"> Bekzod Djumanov
+## <img src="tube.png" height="50"> <span style="font-size: 2.5rem;">Bekzod Djumanov</span>
 
 I'm a Computer Science student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the industrial and mechanical landscape.
 
@@ -20,4 +20,4 @@ I'm a Computer Science student passionate about software engineering, front-end 
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
 </div>
 
-## <img src="star.png" height="50"> Github Statistics
+## <img src="star.png" height="50"> <span style="font-size: 2.5rem;">Github Statistics</span>
