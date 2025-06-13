@@ -29,7 +29,7 @@ I'm a Computer Science student passionate about software engineering, front-end 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
 
 # <img src="pyramid.png" height="40"> Wisdom
-"What we know is not much. What we don't know is enormous."
+> "What we know is not much. What we don't know is enormous."
 <br>
 <br>
 — _Pierre Simon De Laplace_
