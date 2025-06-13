@@ -25,8 +25,8 @@ I'm a Computer Science student passionate about software engineering, front-end 
 </div>
 
 # <img src="star.png" height="40"> Github Statistics
-![Beck's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=radical)
+![Beck's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&theme=midnight-purple)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
 
 # <img src="pyramid.png" height="40"> Wisdom
 ```"What we know is not much. What we don't know is enormous."```
