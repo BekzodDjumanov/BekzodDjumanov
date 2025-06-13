@@ -30,7 +30,7 @@ I'm a Computer Science student passionate about software engineering, front-end 
 
 # <img src="pyramid.png" height="40"> Wisdom
 > "What we know is not much. What we don't know is enormous."
-<br>
+
 — Pierre Simon De Laplace
 
 # <img src="spring.png" height="40"> Trophies
