@@ -30,11 +30,9 @@ I'm a Computer Science student passionate about software engineering, front-end 
 
 # <img src="pyramid.png" height="40"> Wisdom
 > "What we know is not much. What we don't know is enormous."
-<br>
-<br>
-— _Pierre Simon De Laplace_
+— Pierre Simon De Laplace
 
-# <img src="spring.png" height="40"> Contribution
+# <img src="spring.png" height="40"> Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BekzodDjumanov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
