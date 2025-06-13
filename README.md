@@ -33,3 +33,5 @@ I'm a Computer Science student passionate about software engineering, front-end 
 <br>
 <br>
 — _Pierre Simon De Laplace_
+
+![Snake animation](https://raw.githubusercontent.com/BekzodDjumanov/BekzodDjumanov/output/github-snake.svg)
