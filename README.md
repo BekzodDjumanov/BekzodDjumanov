@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&color=FDF6E3&width=500&lines=Hey%2C+I'm%20Bekzod." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=10000&center=true&vCenter=true&color=FDF6E3&width=500&lines=Hey%2C+I'm%20Bekzod%20Djumanov." />
 </p>
 
-# <img src="tube.png" height="40"> Bekzod Djumanov
+# <img src="tube.png" height="40"> About Me
 
 I'm a Computer Science student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the industrial and mechanical landscape.
 
@@ -30,9 +30,13 @@ I'm a Computer Science student passionate about software engineering, front-end 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
 
 # <img src="pyramid.png" height="40"> Wisdom
-```"What we know is not much. What we don't know is enormous."```
-<br>
-<br>
-— _Pierre Simon De Laplace_
+<blockquote style="background: #f9f9f9; border-left: 8px solid #8E75B2; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 10px;">
+  <p style="font-style: italic; font-size: 1.1rem; color: #333;">"What we know is not much. What we don't know is enormous."</p>
+  <p style="text-align: right; font-weight: bold; margin-top: 1em;">— Pierre Simon De Laplace</p>
+</blockquote>
+
+# Contribution
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Snake animation](https://raw.githubusercontent.com/BekzodDjumanov/BekzodDjumanov/output/github-snake-dark.svg)
