@@ -2,6 +2,10 @@
   <img src="introduction.gif" width="400">
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=8E75B2&width=435&lines=Hey%2C+I'm Bekzod." />
+</p>
+
 # <img src="tube.png" height="40"> Bekzod Djumanov
 
 I'm a Computer Science student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the industrial and mechanical landscape.
