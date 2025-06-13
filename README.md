@@ -25,10 +25,10 @@ I'm a Computer Science student passionate about software engineering, front-end 
 </div>
 
 # <img src="star.png" height="40"> Github Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&theme=midnight-purple" alt="Beck's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple" alt="GitHub Streak" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&theme=midnight-purple)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
+
 # <img src="pyramid.png" height="40"> Wisdom
 ```"What we know is not much. What we don't know is enormous."```
 <br>
