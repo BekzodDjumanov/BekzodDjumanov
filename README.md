@@ -37,6 +37,6 @@ I'm a Computer Science student passionate about software engineering, front-end 
 
 # Contribution
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BekzodDjumanov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Snake animation](https://raw.githubusercontent.com/BekzodDjumanov/BekzodDjumanov/output/github-snake-dark.svg)
