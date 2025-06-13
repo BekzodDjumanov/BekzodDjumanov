@@ -16,9 +16,8 @@ I'm a Computer Science student passionate about software engineering, front-end 
     <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="30" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" />
     <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react" height="30" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" height="30" />
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java" height="30" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3" height="30" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="30" />
     <img src="https://img.shields.io/badge/Spline-8E75B2?style=for-the-badge&logoColor=white" height="30" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
@@ -30,12 +29,12 @@ I'm a Computer Science student passionate about software engineering, front-end 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
 
 # <img src="pyramid.png" height="40"> Wisdom
-<blockquote style="background: #f9f9f9; border-left: 8px solid #8E75B2; padding: 1em 1.5em; margin: 1.5em 0; border-radius: 10px;">
-  <p style="font-style: italic; font-size: 1.1rem; color: #333;">"What we know is not much. What we don't know is enormous."</p>
-  <p style="text-align: right; font-weight: bold; margin-top: 1em;">— Pierre Simon De Laplace</p>
-</blockquote>
+![Wisdom](https://img.shields.io/badge/Wisdom-%F0%9F%92%AD-8E75B2?style=for-the-badge)
 
-# Contribution
+> **"What we know is not much. What we don't know is enormous."**  
+> — *Pierre Simon De Laplace*
+
+# <img src="spring.png" height="40"> Contribution
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BekzodDjumanov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
