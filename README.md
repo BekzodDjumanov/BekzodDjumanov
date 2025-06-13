@@ -1,9 +1,5 @@
-<div align="center">
-  <img src="introduction.gif" width="400">
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=8E75B2&width=435&lines=Hey%2C+I'm%20Bekzod." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&center=true&vCenter=true&color=FDF6E3&width=500&lines=Hey%2C+I'm%20Bekzod." />
 </p>
 
 # <img src="tube.png" height="40"> Bekzod Djumanov
