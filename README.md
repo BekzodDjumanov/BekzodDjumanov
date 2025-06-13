@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=8E75B2&width=435&lines=Hey%2C+I'm Bekzod." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&color=8E75B2&width=435&lines=Hey%2C+I'm%20Bekzod." />
 </p>
 
 # <img src="tube.png" height="40"> Bekzod Djumanov
