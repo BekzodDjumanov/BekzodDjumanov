@@ -29,10 +29,10 @@ I'm a Computer Science student passionate about software engineering, front-end 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
 
 # <img src="pyramid.png" height="40"> Wisdom
-![Wisdom](https://img.shields.io/badge/Wisdom-%F0%9F%92%AD-8E75B2?style=for-the-badge)
-
-> **"What we know is not much. What we don't know is enormous."**  
-> — *Pierre Simon De Laplace*
+"What we know is not much. What we don't know is enormous."
+<br>
+<br>
+— _Pierre Simon De Laplace_
 
 # <img src="spring.png" height="40"> Contribution
 
