@@ -25,10 +25,9 @@ I'm a Computer Science student passionate about software engineering, front-end 
 
 # <img src="star.png" height="40"> Github Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&theme=midnight-purple)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple)
 
 # <img src="pyramid.png" height="40"> Leetcode Progression
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/BekzodDjumanov?theme=dark&font=Adamina)
 
 # <img src="spring.png" height="40"> Trophies
