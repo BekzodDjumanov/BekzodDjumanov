@@ -25,7 +25,7 @@ I'm a Computer Science student passionate about software engineering, front-end 
 
 # <img src="star.png" height="40"> Github Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=600&theme=midnight-purple)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple&include_all_commits=true&cache_seconds=1800)
 # <img src="pyramid.png" height="40"> Leetcode Progression
 
