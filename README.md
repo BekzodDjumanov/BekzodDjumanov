@@ -4,7 +4,7 @@
 
 # <img src="tube.png" height="40"> About Me
 
-I'm a Computer Engineering student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the software and mechanical landscape.
+I'm a Comp E student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the software and mechanical landscape.
 
 # <img src="noodle.png" height="40"> Tech Stack
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
