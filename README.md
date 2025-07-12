@@ -29,7 +29,6 @@ I'm a Computer Engineering student passionate about software engineering, front-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=midnight-purple)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple&include_all_commits=true&cache_seconds=1800)
-
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" />
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="50" /> Leetcode Progression <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="50" />
