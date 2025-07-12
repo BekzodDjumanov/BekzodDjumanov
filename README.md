@@ -33,7 +33,7 @@ I'm a Computer Engineering student passionate about software engineering, front-
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/BekzodDjumanov?theme=dark&font=Adamina)
 
-# <img src="spring.png" height="40"> Trophies
+# <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" /> Trophies <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BekzodDjumanov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
