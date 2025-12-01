@@ -25,9 +25,7 @@ I'm a Computer Engineering student passionate about software engineering, front-
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" />
 </div>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="50" /> Github Statistics
-
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="50" />
+# <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="50" /> Github Statistics <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="50" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodDjumanov&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=midnight-purple)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekzodDjumanov&theme=midnight-purple&include_all_commits=true&cache_seconds=1800)
