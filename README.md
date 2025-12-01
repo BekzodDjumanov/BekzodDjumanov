@@ -6,6 +6,8 @@
 
 I'm a Computer Engineering student passionate about software engineering, front-end design, and ethical technology. I am pursuing an education in order to advance future capabilities in the software and mechanical landscape.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200px" />
+
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> Tech Stack <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" />
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
